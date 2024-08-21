@@ -50,7 +50,7 @@
 	    // }
 
 		$('.bottom-header .social-links').hide();
-		// $('.team .social-links').hide();
+		$('.team .social-links').hide();
 		// $('.right-section').hide();
 
 		$(".offer__form .button").click(function(){
